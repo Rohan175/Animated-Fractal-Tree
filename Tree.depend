@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1536172626 source:e:\codes\codeblocksep\tree\rotation.cpp
+	"rsGraphics.h"
+	<graphics.h>
+	<iostream>
+	<cmath>
+
+1266126614 e:\applications\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1536809404 source:e:\codes\codeblocksep\tree\fractol.cpp
+	"rsGraphics.h"
+	<graphics.h>
+	<iostream>
+	<cmath>
+
+1536172296 e:\codes\codeblocksep\tree\rotation.cpp
+	<graphics.h>
+	<iostream>
+	<cmath>
+
+1538473084 e:\codes\codeblocksep\tree\rsgraphics.h
+	"graphics.h"
+	"point.h"
+
+1536173168 e:\codes\codeblocksep\tree\rotation2.cpp
+	<graphics.h>
+	<iostream>
+	<cmath>
+
+1538473092 e:\codes\codeblocksep\tree\point.h
+	<iostream>
+
+1536177310 e:\codes\codeblocksep\tree\rotation2d.cpp
+	"point.h"
+	<graphics.h>
+	<iostream>
+	<cmath>
+
+1536177002 e:\codes\codeblocksep\tree\point.cpp
+	"point.h"
+	<iostream>
+	<cmath>
+
+1536809763 source:e:\codes\codeblocksep\tree\point.cpp
+	"point.h"
+	<iostream>
+	<cmath>
+	<graphics.h>
+
+1536388368 source:e:\codes\codeblocksep\tree\rotation2d.cpp
+	"point.h"
+	<graphics.h>
+	<iostream>
+	<cmath>
+
+1266078014 d:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1538473938 source:e:\codes\codeblocksep\tree\line.cpp
+	"point.h"
+	<graphics.h>
+	<iostream>
+	<cmath>
+
+1538474038 source:e:\codes\codeblocksep\tree\tree.cpp
+	"rsGraphics.h"
+	<graphics.h>
+	<iostream>
+	<cmath>
+	<pthread.h>
+
+1538473960 source:e:\codes\codeblocksep\tree\main.cpp
+	"rsGraphics.h"
+	<windows.h>
+	<pthread.h>
+
